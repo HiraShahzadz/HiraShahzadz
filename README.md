@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Hira Shahzad</h1>
 <h3 align="center">A passionate Software Engineer Open to work</h3>
-<br/>
-
+<h5 align="center">📄 Know about my experiences</h5>
+<p  align="center"><a  href="https://www.canva.com/design/DAFJlWbTfWQ/KH2oKr2HDI2FJ88b1Gz52A/edit?utm_content=DAFJlWbTfWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"">
+    <img src="https://img.shields.io/badge/-Here%20is%20my%20CV-<COLOR>?style=flat-square&logo=appveyor&logoColor=white" alt="Cv Button">
+</a>
+</p>
 
 - **Web Developer Intern <img src="https://www.behindev.com/img/logo.png" alt="angular" width="40" height="20"/> :** Building and crafting captivating web experiences through code.
 - **Programming Teaching Assistant <img src="https://riphah.edu.pk/wp-content/uploads/2023/07/Group-369.png" alt="angular" width="15" height="20"/> :** Review and assist in solving coding errors..
@@ -85,11 +88,6 @@
 - 💬 Ask me about **React js, Spring boot, Java, Javascript, HTML,CSS**
 
 - 📫 How to reach me **hirashahzad565@gamil.com**
-
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFJlWbTfWQ/KH2oKr2HDI2FJ88b1Gz52A/edit?utm_content=DAFJlWbTfWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="margin-top: 2px;">
-    <img src="https://img.shields.io/badge/-Here%20is%20my%20CV-<COLOR>?style=flat-square&logo=appveyor&logoColor=white" alt="Cv Button">
-</a>
-
 
 - ⚡ Fun fact **I am talkative**
 
